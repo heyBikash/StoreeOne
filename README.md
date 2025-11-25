@@ -1,1 +1,1 @@
-# StoreOne
+# StoreeOne
